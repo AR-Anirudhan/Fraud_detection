@@ -82,3 +82,5 @@ This project is open source and available under the [MIT License](https://openso
 * [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 * Scikit-learn documentation and the open-source community
 
+[🚀 View the live demo on Hugging Face Spaces](https://huggingface.co/spaces/Anirudhanar/fraud-detector-app)
+
